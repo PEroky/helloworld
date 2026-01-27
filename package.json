@@ -4,8 +4,7 @@
   "description": "A simple Hello World server in Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "build":"npm install"
+    "start": "node index.js"
   },
   "keywords": ["hello", "world", "nodejs"],
   "author": "Your Name",
