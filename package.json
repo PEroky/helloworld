@@ -1,0 +1,12 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "A simple Hello World server in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["hello", "world", "nodejs"],
+  "author": "Your Name",
+  "license": "MIT"
+}
